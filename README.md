@@ -2,6 +2,8 @@
 
 Sequence a Genome II
 
+Authors: Perrine Steffe, Karim Saied, Boris Schnider
+
 Supervised by Noushin Hadadi
 
 The project aims at building a Flux Balance Model (FBM) representing a simplification of the Commensalibacter sp. metabolism, from the previously identified genes and reactions in this organism. The reconstructed model will allow to investigate, through growth simulations with different input metabolites, the minimal glucose and oxygen uptake rates required for a Commensalibacter sp. cell to grow.
